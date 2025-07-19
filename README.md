@@ -3,7 +3,7 @@
 A comprehensive ray tracing implementation in C++ using OpenGL/GLUT for real-time 3D visualization and ray tracing image generation. This project demonstrates advanced computer graphics concepts including ray-object intersection, lighting models, shadows, reflections, and texture mapping.
 
 ## Quick Start
-
+ 
 ### Running Commands
 1. **Compilation**:
    ```bash
