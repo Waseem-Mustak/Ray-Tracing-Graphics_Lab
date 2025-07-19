@@ -2,6 +2,19 @@
 
 A comprehensive ray tracing implementation in C++ using OpenGL/GLUT for real-time 3D visualization and ray tracing image generation. This project demonstrates advanced computer graphics concepts including ray-object intersection, lighting models, shadows, reflections, and texture mapping.
 
+## Quick Start
+
+### Running Commands
+1. **Compilation**:
+   ```bash
+   g++ 2005091_main.cpp -o demo.exe -lfreeglut -lglew32 -lopengl32 -lglu32
+   ```
+
+2. **Execution**:
+   ```bash
+   start demo.exe
+   ```
+
 ## Features
 
 ### 🎯 Core Ray Tracing
